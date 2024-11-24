@@ -21,10 +21,10 @@ This project focuses on predicting the solar cell PV yield (kWh) based on variou
 To evaluate the performance of the models, we use **Mean Absolute Error (MAE)** as the primary weighting criterion to compare predictions against actual values.
 
 ## Contributors:
-**Akesit Akkharasaksiri**
-**Kunlanith Busabong**
-**Paveetida Tiranatwittayakul**
-**Rattapol Kitirak**
+-**Akesit Akkharasaksiri**
+-**Kunlanith Busabong**
+-**Paveetida Tiranatwittayakul**
+-**Rattapol Kitirak**
 
 ## Dataset Sources:
 - Weather data: [World Weather Online](https://www.worldweatheronline.com/v2/weather.aspx?q=bkk)
